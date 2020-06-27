@@ -1,0 +1,5 @@
+[DEBUG] 2020-06-25 13:42:06.202 [main] Log4j_demo_class - This is a debug statement
+[INFO ] 2020-06-25 13:42:06.205 [main] Log4j_demo_class - This is Info Log
+[WARN ] 2020-06-25 13:42:06.205 [main] Log4j_demo_class - This is Warn Log
+[ERROR] 2020-06-25 13:42:06.205 [main] Log4j_demo_class - This is Error Log
+[FATAL] 2020-06-25 13:42:06.205 [main] Log4j_demo_class - This is Fatal Log

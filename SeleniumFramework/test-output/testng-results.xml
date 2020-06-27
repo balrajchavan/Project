@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-27T09:18:35 BST" name="Default suite" finished-at="2020-06-27T09:18:51 BST" duration-ms="15455">
+    <groups>
+    </groups>
+    <test started-at="2020-06-27T09:18:35 BST" name="Default test" finished-at="2020-06-27T09:18:51 BST" duration-ms="15455">
+      <class name="POM_Tests.AppleSearchTest2_testNG">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:35 BST" name="setUpTest" finished-at="2020-06-27T09:18:37 BST" duration-ms="1697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:38 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:39 BST" duration-ms="1499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:39 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:40 BST" duration-ms="662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:40 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:40 BST" duration-ms="572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:40 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:41 BST" duration-ms="488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:41 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:41 BST" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:41 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:42 BST" duration-ms="645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:42 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:43 BST" duration-ms="563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:43 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:43 BST" duration-ms="620" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:43 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:44 BST" duration-ms="602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:44 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:44 BST" duration-ms="626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:44 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:45 BST" duration-ms="566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:45 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:46 BST" duration-ms="705" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:46 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:46 BST" duration-ms="564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:46 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:47 BST" duration-ms="661" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:47 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:48 BST" duration-ms="570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleLoginTest(java.lang.String, java.lang.String)[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:48 BST" name="appleLoginTest" data-provider="loginTestData" finished-at="2020-06-27T09:18:48 BST" duration-ms="646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleLoginTest -->
+        <test-method signature="appleSearchTest()[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:48 BST" name="appleSearchTest" finished-at="2020-06-27T09:18:51 BST" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleSearchTest -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:POM_Tests.AppleSearchTest2_testNG@2e222612]" started-at="2020-06-27T09:18:51 BST" name="tearDownTest" finished-at="2020-06-27T09:18:51 BST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- POM_Tests.AppleSearchTest2_testNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
